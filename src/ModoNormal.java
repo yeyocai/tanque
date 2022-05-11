@@ -16,6 +16,8 @@ public class ModoNormal extends ModoTanque {
 		return new ModoAsedio();
 	}
 	
+	// modo normal
+	
 	//@Override
 	//protected void restarVida(Tanque tanque) {
 	//	tanque.vida--;

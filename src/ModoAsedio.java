@@ -15,4 +15,6 @@ public class ModoAsedio extends ModoTanque {
 	public ModoTanque cambiarModo() {
 		return new ModoNormal();
 	}
+	
+	// modo asedio
 }
